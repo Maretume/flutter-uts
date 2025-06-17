@@ -1,6 +1,6 @@
 {
-    "name": "dewakoding_presensi",
-    "short_name": "dewakoding_presensi",
+    "name": "Sistem Presensi",
+    "short_name": "Sistem Presensi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
