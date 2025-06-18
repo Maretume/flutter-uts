@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "dewakoding_presensi" "\0"
+            VALUE "FileDescription", "Sistem Presensi" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dewakoding_presensi" "\0"
+            VALUE "InternalName", "Sistem Presensi" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dewakoding_presensi.exe" "\0"
-            VALUE "ProductName", "dewakoding_presensi" "\0"
+            VALUE "OriginalFilename", "Sistem Presensi.exe" "\0"
+            VALUE "ProductName", "Sistem Presensi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
